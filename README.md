@@ -1,4 +1,4 @@
-# chomksy
+# Chomksy
 A kata all about regular expressions....
 
 Some interesting links:
